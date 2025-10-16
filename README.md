@@ -1,7 +1,6 @@
-# Z O R A R A - > https://zoraraexecutor.pages.dev
 
 
-# pulsekit
+# Z O R A R A - > https://zoraraexecutor.pages.dev
 
 📈 PulseKit
 
